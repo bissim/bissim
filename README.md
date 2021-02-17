@@ -10,7 +10,7 @@ Below you'll find a selection of repositories concerning projects I worked on du
 
 I'm eager to learn 📚 about new technologies, particularly concerning cloud computing.
 
-You can find me on [![LinkedIn profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisim/) and [![Simone Bisogno's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/bissim) too!
+You can find me on [![LinkedIn profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisim/) and [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="20" />](https://dev.to/bissim) too!
 
 <!--
 **bissim/bissim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
