@@ -2,7 +2,7 @@
 
 [![Profile stats](https://github-readme-stats.vercel.app/api/?username=bissim&layout=compact&hide_title=true&show_icons=true&theme=gotham)](#) [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bissim&layout=compact&show_icons=true&theme=gotham)](#)
 
-I'm a final year MSc student @ University of Salerno. My field of specializing is cloud computing ☁️ and concurrent programming 🧵.
+I received my MSc @ University of Salerno. My field of specializing is cloud computing ☁️ and concurrent programming 🧵.
 
 Currently, I'm working 🔭 on my thesis 📕 about integrating graph handling to the [FLY multi-cloud DSL](http://github.com/bissim/FLY-language) by defining the [language API for graphs](https://github.com/bissim/FLY-graph).
 
